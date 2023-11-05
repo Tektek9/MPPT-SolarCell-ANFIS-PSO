@@ -17,8 +17,8 @@ GUI untuk Desktop:
 - Matplotlib (Untuk menampilkan Plotter)
 
 Komunikasi:
-- Python(Bahasa Pemrograman)
-- Serial(Komunikasi data yang digunakan antara GUI dengan Mikrokontroler)
+- Python (Bahasa Pemrograman)
+- Serial (Komunikasi data yang digunakan antara GUI dengan Mikrokontroler)
 
 Metode:
 - ANFIS-PSO untuk menghasilkan titik daya optimum dan nilai diconvert menjadi Digital, yang nantinya dikirim ke Mikrokontroller dan diproses lagi
