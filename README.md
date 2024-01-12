@@ -1,6 +1,8 @@
 # MPPT-SolarCell Metode-ANFIS-PSO
 Project MPPT Solarcell dengan metode ANFIS-PSO untuk otomatisasi PWM Sepic Converter
 
+![image](https://github.com/Tektek9/MPPT-SolarCell-ANFIS-PSO/blob/main/mppt.png)
+
 Perangkat yang dipakai:
 - Mikrokontroler STM32F103
 - Driver Mosfet (Untuk menerima nilai PWM dari STM32F103 dan dikirim ke SEPIC Converter)
